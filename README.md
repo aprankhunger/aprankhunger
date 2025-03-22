@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://lh3.googleusercontent.com/a/ACg8ocKVwXjAiQgLk4LQ7lGe6sBR-FYM0vdESH5gOQN6JCzmqHaFwGFu=s360-c-no"  />
-
-###
-
 <p align="left">My name is Apran Khunger.</p>
 
 ###
@@ -41,6 +35,24 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aprankhunger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=aprankhunger&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="left">Links 🔗</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/apran-khunger-6a5234325" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="www.instagram.com/apran_khunger" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:apranofficial@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
